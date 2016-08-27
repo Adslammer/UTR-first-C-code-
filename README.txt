@@ -1,0 +1,1 @@
+Vježba u sklopu kolegija uvod u teoriju racunarstva, radjena u C++ jeziku. Automati, definicije, rjecnici.
